@@ -1653,7 +1653,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00001-0000-0000-000000000000")
-		(at 31.8403 3.874 -90)
+		(at 31.8403 3.874 90)
 		(property "Reference" "C15"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1681,7 +1681,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00002-0000-0000-000000000000")
-		(at 32.9833 5.017 -90)
+		(at 32.9833 5.017 90)
 		(property "Reference" "R21"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1709,7 +1709,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00003-0000-0000-000000000000")
-		(at 44.4928 9.0329 -90)
+		(at 44.4928 9.0329 90)
 		(property "Reference" "C14"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1737,7 +1737,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00004-0000-0000-000000000000")
-		(at 48.9395 44.9113 -90)
+		(at 48.9395 44.9113 90)
 		(property "Reference" "C20"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1793,7 +1793,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00006-0000-0000-000000000000")
-		(at 3.764 15.0278 90)
+		(at 3.764 15.0278 270)
 		(property "Reference" "C23"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1854,7 +1854,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00008-0000-0000-000000000000")
-		(at 56.7323 55.182 -90)
+		(at 56.7323 55.182 90)
 		(property "Reference" "C21"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1882,7 +1882,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00009-0000-0000-000000000000")
-		(at 59.182 18.542 90)
+		(at 59.182 18.542 270)
 		(property "Reference" "R17"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1910,7 +1910,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00010-0000-0000-000000000000")
-		(at 59.2836 20.8788 270)
+		(at 59.2836 20.8788 90)
 		(property "Reference" "R18"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -1938,7 +1938,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00011-0000-0000-000000000000")
-		(at 49.6203 25.083 90)
+		(at 49.6203 25.083 270)
 		(property "Reference" "LED16"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2004,7 +2004,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00013-0000-0000-000000000000")
-		(at 54.1206 37.5982 90)
+		(at 54.1206 37.5982 270)
 		(property "Reference" "LED5"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2042,7 +2042,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00014-0000-0000-000000000000")
-		(at 52.1603 57.0423 -90)
+		(at 52.1603 57.0423 90)
 		(property "Reference" "Q1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2106,7 +2106,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00016-0000-0000-000000000000")
-		(at 8.9803 39.18 -90)
+		(at 8.9803 39.18 90)
 		(property "Reference" "U1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2189,7 +2189,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00019-0000-0000-000000000000")
-		(at 16.4733 50.737 -90)
+		(at 16.4733 50.737 90)
 		(property "Reference" "R14"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2443,7 +2443,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00028-0000-0000-000000000000")
-		(at 16.3463 53.531 -90)
+		(at 16.3463 53.531 90)
 		(property "Reference" "C10"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2471,7 +2471,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00029-0000-0000-000000000000")
-		(at 20.9183 52.896 -90)
+		(at 20.9183 52.896 90)
 		(property "Reference" "C7"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2499,7 +2499,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00030-0000-0000-000000000000")
-		(at 3.7373 12.449 -90)
+		(at 3.7373 12.449 90)
 		(property "Reference" "C22"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2583,7 +2583,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00033-0000-0000-000000000000")
-		(at 53.4873 48.9564 90)
+		(at 53.4873 48.9564 270)
 		(property "Reference" "CN1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2621,7 +2621,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00034-0000-0000-000000000000")
-		(at 9.4873 22.9679 -90)
+		(at 9.4873 22.9679 90)
 		(property "Reference" "H1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2687,7 +2687,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00036-0000-0000-000000000000")
-		(at 17.6163 50.737 90)
+		(at 17.6163 50.737 270)
 		(property "Reference" "R13"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2715,7 +2715,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00037-0000-0000-000000000000")
-		(at 29.8083 3.62 90)
+		(at 29.8083 3.62 270)
 		(property "Reference" "SW1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2745,7 +2745,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00038-0000-0000-000000000000")
-		(at 26.5063 3.62 90)
+		(at 26.5063 3.62 270)
 		(property "Reference" "SW2"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -2932,7 +2932,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00041-0000-0000-000000000000")
-		(at 11.5122 17.4088 -90)
+		(at 11.5122 17.4088 90)
 		(property "Reference" "U8"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3017,7 +3017,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00044-0000-0000-000000000000")
-		(at 51.7235 31.2732 35)
+		(at 51.7235 31.2732 325)
 		(property "Reference" "LED19"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3049,7 +3049,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00045-0000-0000-000000000000")
-		(at 50.3951 24.1059 35)
+		(at 50.3951 24.1059 325)
 		(property "Reference" "LED18"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3081,7 +3081,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00046-0000-0000-000000000000")
-		(at 46.5864 17.8906 35)
+		(at 46.5864 17.8906 325)
 		(property "Reference" "LED17"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3113,7 +3113,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00047-0000-0000-000000000000")
-		(at 40.8033 13.4531 35)
+		(at 40.8033 13.4531 325)
 		(property "Reference" "LED15"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3145,7 +3145,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00048-0000-0000-000000000000")
-		(at 33.8141 11.3828 35)
+		(at 33.8141 11.3828 325)
 		(property "Reference" "LED14"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3177,7 +3177,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00049-0000-0000-000000000000")
-		(at 26.5472 11.9547 35)
+		(at 26.5472 11.9547 325)
 		(property "Reference" "LED13"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3209,7 +3209,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00050-0000-0000-000000000000")
-		(at 19.9678 15.0929 35)
+		(at 19.9678 15.0929 325)
 		(property "Reference" "LED12"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3241,7 +3241,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00051-0000-0000-000000000000")
-		(at 14.9501 20.3805 35)
+		(at 14.9501 20.3805 325)
 		(property "Reference" "LED11"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3273,7 +3273,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00052-0000-0000-000000000000")
-		(at 12.1606 27.115 35)
+		(at 12.1606 27.115 325)
 		(property "Reference" "LED10"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3305,7 +3305,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00053-0000-0000-000000000000")
-		(at 11.9698 34.4019 35)
+		(at 11.9698 34.4019 325)
 		(property "Reference" "LED9"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3337,7 +3337,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00054-0000-0000-000000000000")
-		(at 14.148 40.7632 35)
+		(at 14.148 40.7632 325)
 		(property "Reference" "LED8"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3369,7 +3369,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00055-0000-0000-000000000000")
-		(at 18.8821 46.3062 35)
+		(at 18.8821 46.3062 325)
 		(property "Reference" "LED7"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3401,7 +3401,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00056-0000-0000-000000000000")
-		(at 25.5667 49.2099 35)
+		(at 25.5667 49.2099 325)
 		(property "Reference" "LED6"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3433,7 +3433,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00057-0000-0000-000000000000")
-		(at 32.5517 49.9719 35)
+		(at 32.5517 49.9719 325)
 		(property "Reference" "LED4"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3465,7 +3465,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00058-0000-0000-000000000000")
-		(at 39.6637 48.7019 35)
+		(at 39.6637 48.7019 325)
 		(property "Reference" "LED3"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3497,7 +3497,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00059-0000-0000-000000000000")
-		(at 45.6107 44.9054 35)
+		(at 45.6107 44.9054 325)
 		(property "Reference" "LED2"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3529,7 +3529,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00060-0000-0000-000000000000")
-		(at 49.7394 38.898 35)
+		(at 49.7394 38.898 325)
 		(property "Reference" "LED1"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3657,7 +3657,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00065-0000-0000-000000000000")
-		(at 33.274 51.943 -90)
+		(at 33.274 51.943 90)
 		(property "Reference" "R19"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3685,7 +3685,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00066-0000-0000-000000000000")
-		(at 27.9033 51.7083 -90)
+		(at 27.9033 51.7083 90)
 		(property "Reference" "R20"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3713,7 +3713,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00067-0000-0000-000000000000")
-		(at 16.2193 8.954 -90)
+		(at 16.2193 8.954 90)
 		(property "Reference" "C12"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3741,7 +3741,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00068-0000-0000-000000000000")
-		(at 13.8063 9.208 90)
+		(at 13.8063 9.208 270)
 		(property "Reference" "U6"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3794,7 +3794,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00070-0000-0000-000000000000")
-		(at 55.5176 36.3282 90)
+		(at 55.5176 36.3282 270)
 		(property "Reference" "R28"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3822,7 +3822,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00071-0000-0000-000000000000")
-		(at 43.3832 9.0424 -90)
+		(at 43.3832 9.0424 90)
 		(property "Reference" "C4"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3850,7 +3850,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00072-0000-0000-000000000000")
-		(at 21.9456 52.8828 -90)
+		(at 21.9456 52.8828 90)
 		(property "Reference" "C39"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3878,7 +3878,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00073-0000-0000-000000000000")
-		(at 22.9616 52.8828 -90)
+		(at 22.9616 52.8828 90)
 		(property "Reference" "C40"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3906,7 +3906,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00074-0000-0000-000000000000")
-		(at 37.1348 51.7652 90)
+		(at 37.1348 51.7652 270)
 		(property "Reference" "C41"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3934,7 +3934,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00075-0000-0000-000000000000")
-		(at 33.274 2.3368 90)
+		(at 33.274 2.3368 270)
 		(property "Reference" "C42"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3962,7 +3962,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00076-0000-0000-000000000000")
-		(at 24.4348 3.81 -90)
+		(at 24.4348 3.81 90)
 		(property "Reference" "C43"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -3990,7 +3990,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00077-0000-0000-000000000000")
-		(at 31.242 51.943 -90)
+		(at 31.242 51.943 90)
 		(property "Reference" "D4"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -4065,7 +4065,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00080-0000-0000-000000000000")
-		(at 35.3568 50.9016 -90)
+		(at 35.3568 50.9016 90)
 		(property "Reference" "D7"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -4130,7 +4130,7 @@
 	(footprint "FP"
 		(layer "F.Cu")
 		(uuid "epcb-00082-0000-0000-000000000000")
-		(at 49.911 57.15 90)
+		(at 49.911 57.15 270)
 		(property "Reference" "R30"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -4333,7 +4333,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00092-0000-0000-000000000000")
-		(at 59.6392 28.448 90)
+		(at 59.6392 28.448 270)
 		(property "Reference" "D8"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -4478,7 +4478,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00098-0000-0000-000000000000")
-		(at 50.898 29.172 90)
+		(at 50.898 29.172 270)
 		(property "Reference" "C44"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -4506,7 +4506,7 @@
 	(footprint "FP"
 		(layer "B.Cu")
 		(uuid "epcb-00099-0000-0000-000000000000")
-		(at 53.397 28.407 90)
+		(at 53.397 28.407 270)
 		(property "Reference" "R41"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
