@@ -7,7 +7,7 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
-	(title_block (title "Restaurant Pager Circular - Board 4"))
+	(title_block (title "Restaurant Pager Circular"))
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -1789,6 +1789,11 @@
 		(fp_line (start 0.7214 -0.4975) (end 0.2214 -0.4975) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.2214 0.4996) (end 0.7214 0.4996) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.8738 0.3473) (end 0.8738 -0.3452) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/C0402_L1.0-W0.5-H0.5.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -1850,6 +1855,11 @@
 		(fp_line (start 1.0762 1.0762) (end 1.0762 -0.5726) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.0762 -1.0762) (end 1.0762 0.5726) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.0762 -1.0762) (end -1.0762 0.5726) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/TDFN-8_L2.0-W2.0-P0.50-BL-EP1.2.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -1972,6 +1982,11 @@
 		(fp_line (start -1.4896 0.4543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.1395 0.7543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.2204 0.0065) (end -0.1196 0.0065) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2038,6 +2053,11 @@
 		(fp_line (start -1.4896 0.4543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.1395 0.7543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.2204 0.0065) (end -0.1196 0.0065) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2066,6 +2086,11 @@
 		(fp_line (start 0.7262 -1.5262) (end -0.7262 -1.5262) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.7262 -1.5262) (end -0.7262 -0.4946) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.7262 0.4554) (end 0.7262 -0.4554) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2102,6 +2127,11 @@
 		(fp_line (start 1.4062 0.8662) (end 1.4062 0.6982) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.4062 -0.8662) (end 1.4062 -0.8662) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.4062 -0.8662) (end 1.4062 -0.6982) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOD-123_L2.8-W1.8-LS3.7-RD.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2130,6 +2160,11 @@
 		(fp_line (start 1.45 0.775) (end 1.45 -0.775) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.45 -0.775) (end -1.45 -0.775) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.45 -0.775) (end -1.45 0.775) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2154,6 +2189,11 @@
 		(fp_line (start 1.25 -1.0) (end -1.25 -1.0) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.3689 1.0) (end 0.3689 1.0) (stroke (width 0.2) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.3689 -1.0) (end 0.3689 -1.0) (stroke (width 0.2) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/IND-SMD_L2.5-W2.0_MHCHL2520.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2185,6 +2225,11 @@
 		(fp_line (start -1.191 -1.016) (end 0.4645 -1.016) (stroke (width 0.152) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.4644 1.016) (end -1.191 1.016) (stroke (width 0.152) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.191 1.016) (end -1.191 0.9051) (stroke (width 0.152) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/VQFN-7_L2.0-W2.0-P0.55-TL_RWU.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2241,6 +2286,11 @@
 		(fp_line (start -2.7 2.6) (end -2.7 1.4812) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -2.7 2.6) (end 2.7 2.6) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -2.7 -2.6) (end 2.7 -2.6) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/IND-SMD_L5.4-W5.1-H2.0.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2269,6 +2319,11 @@
 		(fp_line (start 0.2803 0.7096) (end 1.0802 0.7096) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.3899 -0.3997) (end -1.3899 0.4003) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.39 0.3998) (end 1.39 -0.4003) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2298,6 +2353,11 @@
 		(fp_line (start -1.6 -0.9311) (end -1.6 -1.143) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.6 1.143) (end 1.6 0.9311) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.6 -0.9311) (end 1.6 -1.143) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/CAP-SMD_L3.2-W1.6.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2327,6 +2387,11 @@
 		(fp_line (start -1.6 -0.9311) (end -1.6 -1.143) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.6 1.143) (end 1.6 0.9311) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.6 -0.9311) (end 1.6 -1.143) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/CAP-SMD_L3.2-W1.6.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2617,6 +2682,11 @@
 		(fp_line (start 3.95 3.225) (end 3.95 -0.9938) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 2.4 -4.375) (end -2.4 -4.375) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -3.95 3.225) (end -3.95 -0.9938) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2655,6 +2725,11 @@
 		(fp_line (start 3.95 3.225) (end 3.95 -0.9938) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 2.4 -4.375) (end -2.4 -4.375) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -3.95 3.225) (end -3.95 -0.9938) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2741,6 +2816,11 @@
 		(fp_line (start -1.5 1.25) (end 1.5 1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.5 1.25) (end 1.5 -1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.5 -1.25) (end -1.5 -1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/KEY-SMD_2P-L3.0-W2.5-H1.6-LS4.0.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2771,6 +2851,11 @@
 		(fp_line (start -1.5 1.25) (end 1.5 1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.5 1.25) (end 1.5 -1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.5 -1.25) (end -1.5 -1.25) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/KEY-SMD_2P-L3.0-W2.5-H1.6-LS4.0.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2816,6 +2901,11 @@
 		(fp_line (start 1.1061 1.5001) (end 1.5001 1.5001) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.4999 -1.4999) (end -1.1046 -1.4999) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.1076 -1.4999) (end 1.5001 -1.4999) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/TQFN-16_L3.0-W3.0-P0.50-BL-EP1.5.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2928,6 +3018,11 @@
 		(fp_line (start 7.8 12.8001) (end 7.8 -7.6999) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 7.8 -7.6999) (end -7.7 -7.6999) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -7.7 -7.6999) (end -7.7 12.8001) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/BULETM-SMD_ESP32-S3-MINI-1-N8.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2957,6 +3052,11 @@
 		(fp_line (start 1.325 -1.7457) (end 0.0 -1.7457) (stroke (width 0.1) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.0 -1.7457) (end -1.325 -1.7457) (stroke (width 0.1) (type default)) (layer "F.SilkS"))
 		(fp_line (start -1.325 1.7543) (end 1.325 1.7543) (stroke (width 0.1) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/MIC-SMD_SPH0655LM4H-1-8.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -2985,6 +3085,11 @@
 		(fp_line (start 0.8 -1.45) (end -0.8 -1.45) (stroke (width 0.0508) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.9 1.5499) (end 0.9 1.5499) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.9 -1.5501) (end 0.9 -1.5501) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -3013,6 +3118,11 @@
 		(fp_line (start 0.2262 -0.4986) (end 0.9442 -0.4986) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.9442 -0.4986) (end 0.9442 0.4986) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.9442 0.4986) (end 0.2262 0.4986) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/R0402_L1.0-W0.5-H0.4.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3045,6 +3155,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3077,6 +3192,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3109,6 +3229,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3141,6 +3266,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3173,6 +3303,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3205,6 +3340,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3237,6 +3377,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3269,6 +3414,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3301,6 +3451,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3333,6 +3488,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3365,6 +3525,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3397,6 +3562,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3429,6 +3599,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3461,6 +3636,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3493,6 +3673,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3525,6 +3710,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -3557,6 +3747,11 @@
 		(fp_line (start -1.3 1.15) (end -1.3 1.1381) (stroke (width 0.254) (type default)) (layer "B.SilkS"))
 		(fp_line (start 1.0 1.1) (end -1.0 1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
 		(fp_line (start -1.0 -1.1) (end 1.0 -1.1) (stroke (width 0.152) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "Test-Point-0.5mm"
 		(layer "F.Cu")
@@ -3653,6 +3848,11 @@
 		(fp_line (start -4.47 -4.9924) (end 4.47 -4.9924) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 4.47 -4.9924) (end 4.47 -3.4897) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -4.47 0.5404) (end -4.47 -1.2566) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/TYPE-C-SMD_SBC-160S1A-20-S412.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -3765,6 +3965,11 @@
 		(fp_line (start -0.6985 -1.524) (end 0.6985 -1.524) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.4225 1.397) (end 0.4223 1.397) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.889 -0.381) (end -0.889 0.381) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -4011,6 +4216,11 @@
 		(fp_line (start -0.65 0.5) (end 0.65 0.5) (stroke (width 0.13) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.65 -0.5) (end 0.65 -0.5) (stroke (width 0.13) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.0 0.2286) (end 0.0 -0.254) (stroke (width 0.1) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOD-523_L1.2-W0.8-LS1.6-BI.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -4036,6 +4246,11 @@
 		(fp_line (start -0.65 0.5) (end 0.65 0.5) (stroke (width 0.13) (type default)) (layer "B.SilkS"))
 		(fp_line (start -0.65 -0.5) (end 0.65 -0.5) (stroke (width 0.13) (type default)) (layer "B.SilkS"))
 		(fp_line (start 0.0 0.2286) (end 0.0 -0.254) (stroke (width 0.1) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOD-523_L1.2-W0.8-LS1.6-BI.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "B.Cu")
@@ -4061,6 +4276,11 @@
 		(fp_line (start -0.65 0.5) (end 0.65 0.5) (stroke (width 0.13) (type default)) (layer "B.SilkS"))
 		(fp_line (start -0.65 -0.5) (end 0.65 -0.5) (stroke (width 0.13) (type default)) (layer "B.SilkS"))
 		(fp_line (start 0.0 0.2286) (end 0.0 -0.254) (stroke (width 0.1) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOD-523_L1.2-W0.8-LS1.6-BI.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -4088,6 +4308,11 @@
 		(fp_line (start -1.3762 -0.9262) (end 1.3762 -0.9262) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start 1.3762 -0.9262) (end 1.3762 -0.6832) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.9668 0.9262) (end -0.9668 -0.9262) (stroke (width 0.1524) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SOD-123_L2.7-W1.6-H1.4-LS3.7.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -4126,6 +4351,11 @@
 		(fp_line (start -1.4896 0.4543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start -0.1395 0.7543) (end -1.1897 0.7543) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
 		(fp_line (start 0.2204 0.0065) (end -0.1196 0.0065) (stroke (width 0.15) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -4356,6 +4586,11 @@
 		(fp_line (start 2.5933 -1.1756) (end 2.6 -1.4149) (stroke (width 0.1524) (type default)) (layer "B.SilkS"))
 		(fp_line (start 2.5962 1.4262) (end 2.6029 1.187) (stroke (width 0.1524) (type default)) (layer "B.SilkS"))
 		(fp_line (start -2.5962 -1.4262) (end 2.5962 -1.4262) (stroke (width 0.1524) (type default)) (layer "B.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/SMA_L4.3-W2.6-LS5.1-RD.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 	(footprint "FP"
 		(layer "F.Cu")
@@ -4593,5 +4828,10 @@
 		(fp_line (start -4.318 2.54) (end -4.318 3.175) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start -4.318 3.175) (end 4.318 3.175) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
 		(fp_line (start 4.318 3.175) (end 4.318 2.413) (stroke (width 0.254) (type default)) (layer "F.SilkS"))
+		(model "../lib/lcsc-lib.3dshapes/WSON-8_L8.0-W6.0-P1.27-TL-1.wrl"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
 	)
 )

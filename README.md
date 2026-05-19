@@ -16,25 +16,27 @@ Designed in EasyEDA Pro. Sources here are the **KiCad-converted** form produced 
 
 ## Renders
 
+3D models for **48 of 101 components** come from the LCSC library (fetched via easyeda2kicad). The ESP32-S3 module, JST-PH connectors, USB-C receptacle, MIC package, and LED bodies are visible with real geometry. The remaining components fall back to flat pad placeholders.
+
 ### 3D top (controller side)
-The labelled side: PWR / STATUS / 5V / GND / CHG / EXT TOUCH / LED OUT / BAT / VBAT / USB / SPKR / 3V3 / BOOT / RESET test points and signal headers around the MCU.
+The labelled side: PWR / STATUS / 5V / GND / CHG / EXT TOUCH / LED OUT / BAT / VBAT / USB / SPKR / 3V3 / BOOT / RESET test points around the **ESP32-S3 module** (top), JST-PH connectors (left + right), USB-C (bottom right).
 
 ![3D top](board-4/reports/board-3d.png)
 
 ### 3D bottom (sensor side)
-The user-facing side: central round **TOUCH** pad with a ring of 16 SK6812MINI / WS2812B-2020 LEDs around it, **MIC** label visible on the side, 4 corner mounting/test points.
+The user-facing side: central round **TOUCH** pad with a ring of 16 WS2812B-2020 RGB LEDs (real 3D bodies visible), **MIC** package on the side, 4 corner mounting/test pads.
 
 ![3D bottom](board-4/reports/board-3d-back.png)
 
 ## Schematic
 
-Converted from EasyEDA `.esch` to KiCad 10 `.kicad_sch`. Component placeholders use generic KiCad library symbols (Device:R, Device:C, Connector_Generic:Conn_01xN, etc.) mapped from the EasyEDA designator prefixes — geometry / wires / labels / designators / values all preserved.
+Converted from EasyEDA `.esch` to KiCad 10 `.kicad_sch`. **39 of 44 unique component symbols use real geometry parsed from the EasyEDA `.esym` source files** (matching pin counts, pin positions, body rectangles). The remaining 5 fall back to generic KiCad library symbols.
+
+Also extracted from `.esch`: **154 NET labels** on wire endpoints, **17 global labels** (power rails: 3V3, 5V, GND, VBAT, etc.), **27 no-connect markers**, and **405 wire segments** — preserving the exact connectivity of the original.
 
 ![Schematic](board-4/reports/schematic.png)
 
 Full vector PDF: [board-4/reports/schematic.pdf](board-4/reports/schematic.pdf)
-
-> Red bounding boxes in the KiCad render are KiCad's "lib_symbol pin mismatch" highlight — the placeholder lib_symbols don't have pin counts identical to the original EasyEDA symbols. The schematic still reads correctly (designators + wires + topology preserved).
 
 ## Files
 
